@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/asus/OneDrive/Documentos/Desenvolvimento/JAVA/GeradorXMLNFe/../../../../../Desktop/PL_008h2/leiauteNFe_v3.10.xsd" uri="xml-resources/jaxb/XMLNFe_local/leiauteNFe_v3.10.xsd"/>
+    <system systemId="file:/C:/Users/asus/OneDrive/Documentos/Desenvolvimento/JAVA/GeradorXMLNFe/../../../../../Desktop/PL_008h2/nfe_v3.10.xsd" uri="xml-resources/jaxb/XMLNFe_local/nfe_v3.10.xsd"/>
+    <system systemId="file:/C:/Users/asus/OneDrive/Documentos/Desenvolvimento/JAVA/GeradorXMLNFe/../../../../../Desktop/PL_008h2/procNFe_v3.10.xsd" uri="xml-resources/jaxb/XMLNFe_local/procNFe_v3.10.xsd"/>
+    <system systemId="file:/C:/Users/asus/Desktop/PL_008h2/leiauteNFe_v3.10.xsd" uri="xml-resources/jaxb/XMLNFe_local/leiauteNFe_v3.10.xsd"/>
+    <system systemId="file:/C:/Users/asus/Desktop/PL_008h2/xmldsig-core-schema_v1.01.xsd" uri="xml-resources/jaxb/XMLNFe_local/xmldsig-core-schema_v1.01.xsd"/>
+    <system systemId="file:/C:/Users/asus/Desktop/PL_008h2/tiposBasico_v3.10.xsd" uri="xml-resources/jaxb/XMLNFe_local/tiposBasico_v3.10.xsd"/>
+</catalog>

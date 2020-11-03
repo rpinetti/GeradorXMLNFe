@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<schemas xmlns='http://xml.netbeans.org/schema/JAXBWizConfig' destdir='build/generated-sources/jaxb' projectName='GeradorXMLNFe' version='1.0'>
+	<schema type='-xmlschema' package='br.com.robertopinetti.geradorxmlnfe.xml.dao' name='XMLNFe_local'>
+		<xjc-options>
+			<xjc-option name='-extension' value='true'/>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/XMLNFe_local/procNFe_v3.10.xsd' origLocation='../../../../../Desktop/PL_008h2/procNFe_v3.10.xsd'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+</schemas>
